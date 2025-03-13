@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Github
-- 📫 Social Networks
+- 📫 Developer
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dance
 
