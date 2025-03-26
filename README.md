@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 Developer
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Dance
+- ⚡ Sports: Soccer
 
 <!---
 EyvarPZ/EyvarPZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
