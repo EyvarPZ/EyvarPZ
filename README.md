@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @EyvarPZ
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Github
-- 📫 Developer
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Eyvar Adriel
+  
 - ⚡ Sports: Soccer
 
 <!---
