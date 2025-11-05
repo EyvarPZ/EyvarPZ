@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eyvar Adriel
-  
-- ⚡ Sports: Soccer
+- 🎯 My favorite hobbie is programming 
+- ⚡ Sports: Soccer and Swimming
 
 <!---
 EyvarPZ/EyvarPZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
