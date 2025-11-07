@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Eyvar Adriel
-- 🎯 My favorite hobbie is programming 
-- ⚡ Sports: Soccer and Swimming
+- 👋🏻 Hi, I’m Eyvar Adriel
+- 🎯 Favorite Hobbbie: Programming 
+- 🏊 Sport: Swimming
+- 🎸 Music: Jazz 
 
 <!---
 EyvarPZ/EyvarPZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
