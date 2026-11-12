@@ -1,4 +1,4 @@
-## Selected work
+## Profile
 
 <div align="center">
 
@@ -15,7 +15,6 @@
 > 👨🏻‍💻 Software Engineer
 
 - 📍 Based in **Ciudad de México**
-- 👥 **0** followers · **8** following
 
 *Small, useful work over vague claims.*
 
