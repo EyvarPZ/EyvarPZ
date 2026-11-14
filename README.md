@@ -24,7 +24,6 @@
 <tr><td width="32%"><b><a href="https://github.com/EyvarPZ/Tic-Tac-Toe">Tic-Tac-Toe</a></b></td><td>Aplicación de escritorio en Python que implementa el clásico juego del gato (Tic-Tac-Toe) para dos jugadore<br/><sub>Python · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/EyvarPZ/Pomodoro-Timer">Pomodoro-Timer</a></b></td><td>Aplicación de escritorio en Python que alterna ciclos de trabajo y descanso con la técnica Pomodoro.<br/><sub>Python · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/EyvarPZ/Kivort_AI">Kivort_AI</a></b></td><td>Asistente de voz en Python con reconocimiento de voz, utilizando OpenAI y texto a voz.<br/><sub>Python · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/EyvarPZ/EyvarPZ">EyvarPZ</a></b></td><td>Config files for my GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
 </table>
 
 ## Creative toolkit
